@@ -1,8 +1,6 @@
 # Emotion_Detection-CNN
 
-In this project
-
-       We **predict the Emotion** using **CNN deep learning technique** and **Opencv** .
+In this project,  We **predict the Emotion** using **CNN deep learning technique** and **Opencv** .
 
 images/train => there are 7 folders containing around total 28000 images
 
